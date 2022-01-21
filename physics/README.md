@@ -7,6 +7,7 @@ The class is definitely a lot easier if you come into it with a strong math back
 ## Topic Breakdown
 
 More in-depth material in each folder.
+In each folder there will be a ***README.pdf*** which will contain all the notes you need.
 
 ### Unit 1: 1-D Motion
 
@@ -30,7 +31,11 @@ Conversation of Energy is your best friend.
 
 ### Unit 5: Momentum Waves & Oscillation
 
-
+This unit is not that hard, mostly just applying the formulas.
 Notably: *This unit and the next/last don't have quizzes/tests*
 
 ### Unit 6: Rotational Motion and Electricity & Magnetism
+
+Rotational Motion stuff is useful for the Trebuchet project.
+The E&M section has one homework set and that's it.
+You learn about circuitry and there's a cool game to go with it.
